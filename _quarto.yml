@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Bryan & Sara"
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house-heart-fill
+      - href: ceremony_reception.qmd
+        text: "Ceremony & Reception"
+        icon: balloon-heart
+      - href: accommodation.qmd
+        text: "Accommodations"
+        icon: buildings
+      - href: attraction.qmd
+        text: "Attractions"
+        icon: camera
+      - href: rsvp.qmd
+        text: "RSVP"
+        icon: envelope-paper-heart
+      
+  page-footer: 
+    center: "Bryan and Sara 2024"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
