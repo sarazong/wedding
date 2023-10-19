@@ -1,5 +1,43 @@
 ---
-title: "As the Story Goes"
+title: "Bryan and Sara's Story"
 ---
 
-![](images/BananaEgg%20GGB1.jpg){width="2800"}
+![](images/banana_egg_lands_end_sf.jpg){fig-alt="lands end" width="100%"}
+
+Bryan and Sara met back in November 2017 through OkCupid. Sara picked up Bryan on the side of the road on their way to Crissy Field and Fort Point for their first date in San Francisco. This was the first of many walks, dates, and hikes in the first 6 years of a lifetime together.
+
+#### San Francisco Bay Area, Japan Town
+
+![](images/banana_egg_sf.jpg){fig-alt="sf" width="75%"}
+
+#### Monroe Michigan, Lake Erie
+
+![](images/banana_egg_monroe.jpg){fig-alt="monroe" width="75%"}
+
+#### Colorado, Beckenridge
+
+![](images/banana_egg_beckenridge.jpg){fig-alt="beckenridge" width="75%"}
+
+#### Japan, Kyoto and Tokyo
+
+::: {layout-ncol="2"}
+![](images/banana_egg_kyoto.JPG){fig-alt="kyoto"}
+
+![](images/banana_egg_tokyo.jpg){fig-alt="tokyo"}
+:::
+
+#### California, Monterey
+
+![](images/banana_egg_monterey_run.jpg){fig-alt="run" width="75%"}
+
+#### Hawaii, Big Island
+
+Now, we'd like you to join us as we celebrate our marriage with a casual get-together in Hawaii, a place we enjoyed as a couple in early 2023.
+
+::: {layout-ncol="2"}
+![](images/banana_egg_big_island.jpg){fig-alt="big island"}
+
+![](images/big_island_ocean.jpg){fig-alt="big island"}
+:::
+
+Please RSVP by January 1, 2024.
