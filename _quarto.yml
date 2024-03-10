@@ -21,9 +21,9 @@ website:
       - href: attraction.qmd
         text: "Attractions"
         icon: camera
-      - href: rsvp.qmd
-        text: "RSVP"
-        icon: envelope-paper-heart
+      # - href: rsvp.qmd
+      #   text: "RSVP"
+      #   icon: envelope-paper-heart
       
   page-footer: 
     center: "Bryan and Sara 2024"
